@@ -40,6 +40,14 @@ export function Footer() {
               </Link>
             </li>
             <li>
+              <Link
+                href="/account-deletion"
+                className="text-muted-foreground transition-colors hover:text-primary"
+              >
+                Eliminación de cuenta
+              </Link>
+            </li>
+            <li>
               {/* TODO: reemplazar por el email de soporte real */}
               <a
                 href={`mailto:${CONTACT_EMAIL}`}
