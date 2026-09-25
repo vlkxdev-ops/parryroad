@@ -14,7 +14,7 @@ export function Hero() {
         <div className="flex flex-col items-center text-center md:items-start md:text-left">
           <span className="mb-5 inline-flex items-center gap-2 rounded-full border border-border bg-secondary px-4 py-1.5 text-xs font-bold uppercase tracking-wide text-muted-foreground">
             <span className="size-2 rounded-full bg-primary" aria-hidden="true" />
-            Endless Runner · Android
+            Endless Runner · Android · Público 13+
           </span>
 
           <h1 className="font-heading text-4xl font-extrabold leading-[1.05] tracking-tight text-balance sm:text-5xl lg:text-6xl">

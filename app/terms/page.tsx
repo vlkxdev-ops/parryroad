@@ -57,7 +57,7 @@ export default function TermsPage() {
 
       <LegalSection id="elegibilidad" title="3. Elegibilidad">
         <p>
-          ParryRoad está calificado para todo público (7+). Si sos menor de edad según las leyes de
+          ParryRoad está dirigido a personas de 13 años o más. Si sos menor de edad según las leyes de
           tu país, necesitás el permiso de un padre, madre o tutor legal para usar el Juego y
           realizar cualquier compra dentro de la aplicación.
         </p>

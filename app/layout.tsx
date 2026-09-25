@@ -18,7 +18,7 @@ const nunito = Nunito({
 export const metadata: Metadata = {
   title: 'ParryRoad — Esquivá. Hacé Parry. No pares.',
   description:
-    'ParryRoad es un endless runner mobile donde cambiás de carril, hacés parry a los obstáculos y batís tu récord de distancia mientras juntás monedas y desbloqueás autos. Gratis para Android.',
+    'ParryRoad es un endless runner mobile para público de 13 años o más, donde cambiás de carril, hacés parry a los obstáculos y batís tu récord de distancia mientras juntás monedas y desbloqueás autos. Gratis para Android.',
   generator: 'v0.app',
   icons: {
     icon: [

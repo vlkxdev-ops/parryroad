@@ -9,7 +9,7 @@ export function Footer() {
         <div className="flex flex-col gap-3">
           <Logo />
           <p className="max-w-xs text-sm leading-relaxed text-muted-foreground">
-            Un endless runner mobile de reflejos, parrys y récords de distancia.
+            Un endless runner mobile para público de 13 años o más, con reflejos, parrys y récords de distancia.
           </p>
         </div>
 

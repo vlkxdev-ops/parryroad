@@ -2,14 +2,11 @@
 // TODO: Completá estos placeholders antes de publicar.
 // ─────────────────────────────────────────────────────────────
 
-// TODO: reemplazar por el email de soporte real
-export const CONTACT_EMAIL = '[email de contacto]'
+export const CONTACT_EMAIL = 'vlkx.dev@gmail.com'
 
-// TODO: reemplazar [FECHA] por la fecha real de última actualización
-export const LAST_UPDATED = '[FECHA]'
+export const LAST_UPDATED = '24/09/2026'
 
-// TODO: reemplazar [PAÍS/JURISDICCIÓN] por la jurisdicción aplicable
-export const JURISDICTION = '[PAÍS/JURISDICCIÓN]'
+export const JURISDICTION = 'Argentina'
 
 // Placeholder de descarga (linkear a Google Play cuando exista)
 export const GOOGLE_PLAY_URL = '#'
