@@ -20,7 +20,7 @@ export function FinalCta() {
             <StoreButtons className="mt-8 justify-center" />
 
             <p className="mt-6 text-xs text-muted-foreground">
-              Gratis para jugar · Compras opcionales dentro de la app · Apto para todo público (7+)
+              Gratis para jugar · Compras opcionales dentro de la app · Apto para todo público (13+)
             </p>
           </div>
         </div>
